@@ -10,4 +10,4 @@ Solved 8 problems covering TypeScript types, functions, classes, optional parame
 
 2. **Type Narrowing in TypeScript: Using Type Guards**
    - [Read on Medium](https://irene-ritu-gomes.medium.com/type-narrowing-in-typescript-using-type-guards-d394c64ad835)
-   - [Markdown file](./type-narrowing-typescript.md)
+   - [Markdown file]([./type-narrowing-typescript.md](https://github.com/ritu-gomes/Assignment-01/blob/main/how-typescript-works-under-the-hood.md)
